@@ -1,6 +1,6 @@
 {
     "identityPoolName": "photoalbums3d79e3d3_identitypool_3d79e3d3",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "lambdaLogPolicy": "photoa_3d79e3d3_lambda_log_policy",
     "openIdLambdaRoleName": "photoa_3d79e3d3_openid_lambda_role",
     "openIdRolePolicy": "photoa_3d79e3d3_openid_pass_role_policy",
